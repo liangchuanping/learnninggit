@@ -11,4 +11,3 @@ add in master
 
 add in dev
 
-add in local
